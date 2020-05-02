@@ -19,5 +19,5 @@ RF communication module for wireless communication
 Suggested PIC16F877A or Intel 8051 microprocessors
 
 | Component | Feasibility | Advantages | Disadvantages |
---------------------------------------------------------
+|-----------|-------------|------------|---------------|
 |Microcontroller|Quite easy if familiar with its basics| Our solution could be even more versatile if we can hack on the microcontroller|Usually tough to start with since they are PLDs basically and demand some skill beforehand|  
