@@ -20,4 +20,11 @@ Suggested PIC16F877A or Intel 8051 microprocessors
 
 | Component | Feasibility | Advantages | Disadvantages |
 |-----------|-------------|------------|---------------|
-|Microcontroller|Quite easy if familiar with its basics| Our solution could be even more versatile if we can hack on the microcontroller|Usually tough to start with since they are PLDs basically and demand some skill beforehand|  
+|Microcontroller|Quite easy if familiar with its basics| Our solution could be even more versatile if we can hack on the microcontroller|Usually tough to start with since they are PLDs basically and demand some programming skills beforehand|
+|Wireless communication module|Tough to start with and demand some dedicated components|Learning outcomes are high|Require some money as components may be costly|
+
+The solution given in the project is good. But a few changes can make it more user effective. We can use an Arduino instead of an 8051 microcontroller since it has its own programming IDE and hence, programming it would be easier. Also. an arduino costs much lesser than an 8051 microcontroller. This allows us to also have a GSM module at the receiver end to send an SMS to the residents of the home in case they have gone out. Also, arduino has an in-built ADC whereas an 8051 microcontroller requires an external ADC converter which again adds on to the cost.
+
+[Do 8051 microcontrollers have in-built ADC?](https://www.quora.com/Do-8051-microcontrollers-have-in-built-ADC)
+
+[Difference between arduino and 8051](http://www.differencebetween.net/technology/difference-between-arduino-and-8051-microcontroller/)
