@@ -16,7 +16,7 @@ MQ-6 gas sensor
 
 RF communication module for wireless communication
 
-Suggested PIC16F877A or Intel 8051 microprocessors
+Suggested PIC16F877A or Intel 8051 microcontrollers
 
 | Component | Feasibility | Advantages | Disadvantages |
 |-----------|-------------|------------|---------------|
