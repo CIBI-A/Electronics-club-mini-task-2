@@ -22,3 +22,5 @@ IR sensors for glass detection
 |Wireless communication module|Tough to start with and demand some dedicated components|Learning outcomes are high|Require some money as components may be costly|
 |Glass detection| One of the easiest modules to hack on with| Cost can be significantly reduced|Precision in measuring the glass distance may be lost to some extent|
 
+The suggested approach is really good. It also has bluetooth module for wireless control. But, I personally feel pushbuttons would do the job. Since, in this case the users are going to be near the vending machine, simple pushbuttons can be used instead of bluetooth for flavor and quantity selection. Also, instead of IR sensors, LED-LDR combination can be used to detect the glass. This is because, in this case the distance of the glass from the sensor doesn't matter. Only its presence matters. Hence, having an LED-LDR combination and the glass slot in between would enable its detection. In this way, the cost can be significantly reduced.
+
